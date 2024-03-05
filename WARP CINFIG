@@ -53,13 +53,13 @@
       "tag": "IP->Iran, Yotube:MisaHiro",
       "local_address": [
         "172.16.0.2/32",
-        "2606:4700:110:8c91:4063:21d0:7dd5:f218/128"
+        "2606:4700:110:8a43:54c7:b7e4:f720:a51b/128"
       ],
-      "private_key": "CBVIIWvXdLr4PbSrnm11ZJJ300IiPudRD4R62/IxV1g=",
-      "server": "162.159.195.93",
-      "server_port": 2506,
+      "private_key": "gPOUjceL2L7ilSRdplF19/xcc6Ig/yEWS1mvY9px7lo=",
+      "server": "162.159.192.174",
+      "server_port": 7281,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": "AAAA",
+      "reserved": [ 21, 58, 10 ],
       "mtu": 1280,
       "fake_packets": "5-10"
     },
@@ -72,10 +72,10 @@
         "2606:4700:110:8c15:3f90:ad2d:8810:77f3/128"
       ],
       "private_key": "CCC/TQTc82ub9i8f37Rpix2v425Sv/mxTzvE/iKRMkw=",
-      "server": "162.159.195.93",
-      "server_port": 2506,
+      "server": "162.159.192.174",
+      "server_port": 7281,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": "AAAA",
+      "reserved": [ 21, 58, 10 ],
       "mtu": 1280,
       "fake_packets": "5-10"
     },
