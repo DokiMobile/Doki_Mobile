@@ -52,8 +52,8 @@
       "type": "wireguard",
       "tag": "IP->Iran, Yotube:MisaHiro",
       "local_address": [
-        "172.16.0.2/32",
-        "2606:4700:110:8c91:4063:21d0:7dd5:f218/128"
+        "104.28.246.162",
+        "2a09:bac5:41dd:1282::1d8:83/128"
       ],
       "private_key": "gPOUjceL2L7ilSRdplF19/xcc6Ig/yEWS1mvY9px7lo=",
       "server": "162.159.192.158",
@@ -68,8 +68,8 @@
       "tag": "IP->Main, Yotube:MisaHiro",
       "detour": "IP->Iran, Yotube:MisaHiro",
       "local_address": [
-        "172.16.0.2/32",
-        "2606:4700:110:8c15:3f90:ad2d:8810:77f3/128"
+        "104.28.246.162",
+        "2a09:bac5:41dd:1282::1d8:83/128"
       ],
       "private_key": "gPOUjceL2L7ilSRdplF19/xcc6Ig/yEWS1mvY9px7lo=",
       "server": "162.159.192.158",
